@@ -1,5 +1,5 @@
 # Abalone Classification with Statistical Analysis
-I am classifying abalone's age using sklearn
+Task: Predict the age of abalone from physical measurements.
 
 Libraries used in this repo: numpy, sklearn, pandas, matplotlib
 
